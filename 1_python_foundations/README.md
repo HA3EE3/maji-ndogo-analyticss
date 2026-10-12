@@ -6,7 +6,7 @@ I used core Python to work with agricultural data, apply logical conditions, org
 
 ## The Deliverable
 I used Python to work through the project tasks and analyse the agricultural data provided for the Ministry of Agriculture in Maji Ndogo. The screenshots below show key parts of my code and their outputs, providing evidence of the steps I took and the results I obtained.
-![Season summary analysis](image.png-season-summary.png)
+![Season summary analysis](1_python_foundations/images/image.png)
 
 ## The "So What?"
 This project helped me understand how Python can be used to analyse agricultural data and solve practical problems. By organising information and applying logical checks, the project aimed to help the Ministry of Agriculture make better-informed decisions using its data.
